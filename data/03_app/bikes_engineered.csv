@@ -1,0 +1,98 @@
+order_date,order_id,order_line,quantity,price,total_price,model,category_1,category_2,frame_material,bikeshop_name,city,state,model_base,black,hi_mod,team,red,ultegra,dura_ace,disc
+2011-01-07,1,1,1,6070,6070,Jekyll Carbon 2,Mountain,Over Mountain,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Jekyll,0,0,0,0,0,0,0
+2011-01-07,1,2,1,5970,5970,Trigger Carbon 2,Mountain,Over Mountain,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Trigger,0,0,0,0,0,0,0
+2011-01-10,2,1,1,2770,2770,Beast of the East 1,Mountain,Trail,Aluminum,Kansas City 29ers,Kansas City,KS,Beast of the East,0,0,0,0,0,0,0
+2011-01-10,3,1,1,10660,10660,Supersix Evo Hi-Mod Team,Road,Elite Road,Carbon,Louisville Race Equipment,Louisville,KY,Supersix Evo,0,1,1,0,0,0,0
+2011-01-10,3,2,1,3200,3200,Jekyll Carbon 4,Mountain,Over Mountain,Carbon,Louisville Race Equipment,Louisville,KY,Jekyll,0,0,0,0,0,0,0
+2011-01-10,3,3,1,12790,12790,Supersix Evo Black Inc.,Road,Elite Road,Carbon,Louisville Race Equipment,Louisville,KY,Supersix Evo,1,0,0,0,0,0,0
+2011-01-10,3,4,1,5330,5330,Supersix Evo Hi-Mod Dura Ace 2,Road,Elite Road,Carbon,Louisville Race Equipment,Louisville,KY,Supersix Evo,0,1,0,0,0,1,0
+2011-01-10,3,5,1,1570,1570,Synapse Disc 105,Road,Endurance Road,Aluminum,Louisville Race Equipment,Louisville,KY,Synapse,0,0,0,0,0,0,1
+2011-01-11,4,1,1,4800,4800,Synapse Carbon Disc Ultegra D12,Road,Endurance Road,Carbon,Ann Arbor Speed,Ann Arbor,MI,Synapse,0,0,0,0,1,0,1
+2011-01-11,5,1,1,480,480,Catalyst 3,Mountain,Sport,Aluminum,Denver Bike Shop,Denver,CO,Catalyst,0,0,0,0,0,0,0
+2011-01-11,5,2,2,11190,22380,F-Si Black Inc.,Mountain,Cross Country Race,Carbon,Denver Bike Shop,Denver,CO,F-Si,1,0,0,0,0,0,0
+2011-01-11,5,3,1,1250,1250,Synapse Disc Tiagra,Road,Endurance Road,Aluminum,Denver Bike Shop,Denver,CO,Synapse,0,0,0,0,0,0,1
+2011-01-11,5,4,1,2060,2060,F-Si 2,Mountain,Cross Country Race,Aluminum,Denver Bike Shop,Denver,CO,F-Si,0,0,0,0,0,0,0
+2011-01-11,6,1,1,1960,1960,SuperX 105,Road,Cyclocross,Carbon,Phoenix Bi-peds,Phoenix,AZ,SuperX,0,0,0,0,0,0,0
+2011-01-11,6,2,1,4500,4500,Slice Hi-Mod Dura Ace D12,Road,Triathalon,Carbon,Phoenix Bi-peds,Phoenix,AZ,Slice,0,1,0,0,0,1,0
+2011-01-11,6,3,1,2340,2340,Habit 5,Mountain,Trail,Aluminum,Phoenix Bi-peds,Phoenix,AZ,Habit,0,0,0,0,0,0,0
+2011-01-11,6,4,1,2240,2240,Synapse Carbon 105,Road,Endurance Road,Carbon,Phoenix Bi-peds,Phoenix,AZ,Synapse,0,0,0,0,0,0,0
+2011-01-12,7,2,1,2240,2240,CAAD12 Ultegra,Road,Elite Road,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,CAAD12,0,0,0,0,1,0,0
+2011-01-12,7,3,1,1840,1840,Supersix Evo Tiagra,Road,Elite Road,Carbon,Minneapolis Bike Shop,Minneapolis,MN,Supersix Evo,0,0,0,0,0,0,0
+2011-01-12,7,4,1,3200,3200,Scalpel 29 4,Mountain,Cross Country Race,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,Scalpel 29,0,0,0,0,0,0,0
+2011-01-12,7,6,1,12790,12790,Scalpel-Si Black Inc.,Mountain,Cross Country Race,Carbon,Minneapolis Bike Shop,Minneapolis,MN,Scalpel-Si,1,0,0,0,0,0,0
+2011-01-12,7,7,1,3200,3200,Supersix Evo Ultegra 3,Road,Elite Road,Carbon,Minneapolis Bike Shop,Minneapolis,MN,Supersix Evo,0,0,0,0,1,0,0
+2011-01-12,7,8,1,9060,9060,F-Si Hi-Mod Team,Mountain,Cross Country Race,Carbon,Minneapolis Bike Shop,Minneapolis,MN,F-Si,0,1,1,0,0,0,0
+2011-01-12,7,9,1,3200,3200,Scalpel-Si 5,Mountain,Cross Country Race,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,Scalpel-Si,0,0,0,0,0,0,0
+2011-01-12,7,10,2,1410,2820,CAAD8 105,Road,Elite Road,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,CAAD8,0,0,0,0,0,0,0
+2011-01-12,7,12,1,1950,1950,Slice 105,Road,Triathalon,Carbon,Minneapolis Bike Shop,Minneapolis,MN,Slice,0,0,0,0,0,0,0
+2011-01-12,7,13,1,9060,9060,Scalpel-Si Race,Mountain,Cross Country Race,Carbon,Minneapolis Bike Shop,Minneapolis,MN,Scalpel-Si,0,0,0,0,0,0,0
+2011-01-12,7,14,2,815,1630,Trail 5,Mountain,Sport,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,Trail,0,0,0,0,0,0,0
+2011-01-17,9,1,1,2660,2660,Synapse Carbon Ultegra 4,Road,Endurance Road,Carbon,New Orleans Velocipedes,New Orleans,LA,Synapse,0,0,0,0,1,0,0
+2011-01-17,9,2,2,3200,6400,CAAD12 Red,Road,Elite Road,Aluminum,New Orleans Velocipedes,New Orleans,LA,CAAD12,0,0,0,1,0,0,0
+2011-01-17,9,4,1,1950,1950,CAAD12 Disc 105,Road,Elite Road,Aluminum,New Orleans Velocipedes,New Orleans,LA,CAAD12,0,0,0,0,0,0,1
+2011-01-17,9,5,5,1030,5150,Synapse Sora,Road,Endurance Road,Aluminum,New Orleans Velocipedes,New Orleans,LA,Synapse,0,0,0,0,0,0,0
+2011-01-17,10,1,1,1250,1250,CAAD8 Tiagra,Road,Elite Road,Aluminum,Portland Bi-peds,Portland,OR,CAAD8,0,0,0,0,0,0,0
+2011-01-18,11,1,1,5860,5860,CAAD12 Black Inc,Road,Elite Road,Aluminum,San Francisco Cruisers,San Francisco,CA,CAAD12,1,0,0,0,0,0,0
+2011-01-18,11,5,1,7460,7460,Synapse Hi-Mod Disc Red,Road,Endurance Road,Carbon,San Francisco Cruisers,San Francisco,CA,Synapse,0,1,0,1,0,0,1
+2011-01-18,11,7,1,3500,3500,SuperX Hi-Mod CX1,Road,Cyclocross,Carbon,San Francisco Cruisers,San Francisco,CA,SuperX,0,1,0,0,0,0,0
+2011-01-20,12,1,2,3730,7460,Synapse Carbon Disc Ultegra,Road,Endurance Road,Carbon,Louisville Race Equipment,Louisville,KY,Synapse,0,0,0,0,1,0,1
+2011-01-20,12,2,1,3840,3840,Jekyll Carbon 3,Mountain,Over Mountain,Carbon,Louisville Race Equipment,Louisville,KY,Jekyll,0,0,0,0,0,0,0
+2011-01-20,12,7,1,3200,3200,Synapse Carbon Ultegra 3,Road,Endurance Road,Carbon,Louisville Race Equipment,Louisville,KY,Synapse,0,0,0,0,1,0,0
+2011-01-20,12,8,1,1840,1840,Synapse Carbon Tiagra,Road,Endurance Road,Carbon,Louisville Race Equipment,Louisville,KY,Syapse,0,0,0,0,0,0,0
+2011-01-20,12,9,1,9590,9590,Synapse Hi-Mod Disc Black Inc.,Road,Endurance Road,Carbon,Louisville Race Equipment,Louisville,KY,Synapse,1,1,0,0,0,0,1
+2011-01-20,12,12,1,5330,5330,Scalpel 29 Carbon 2,Mountain,Cross Country Race,Carbon,Louisville Race Equipment,Louisville,KY,Scalpel 29,0,0,0,0,0,0,0
+2011-01-20,12,15,1,3200,3200,Slice Ultegra D12,Road,Triathalon,Carbon,Louisville Race Equipment,Louisville,KY,Slice,0,0,0,0,1,0,0
+2011-01-20,12,17,1,870,870,Synapse Claris,Road,Endurance Road,Aluminum,Louisville Race Equipment,Louisville,KY,Synapse,0,0,0,0,0,0,0
+2011-01-20,12,18,1,2660,2660,Supersix Evo Ultegra 4,Road,Elite Road,Carbon,Louisville Race Equipment,Louisville,KY,Supersix Evo,0,0,0,0,1,0,0
+2011-01-20,12,19,1,7460,7460,Scalpel-Si Hi-Mod 1,Mountain,Cross Country Race,Carbon,Louisville Race Equipment,Louisville,KY,Scalpel-Si,0,1,0,0,0,0,0
+2011-01-24,14,3,1,4800,4800,F-Si Carbon 2,Mountain,Cross Country Race,Carbon,Albuquerque Cycles,Albuquerque,NM,F-Si,0,0,0,0,0,0,0
+2011-01-25,15,1,1,7990,7990,Supersix Evo Hi-Mod Dura Ace 1,Road,Elite Road,Carbon,Oklahoma City Race Equipment,Oklahoma City,OK,Supersix Evo,0,1,0,0,0,1,0
+2011-01-25,15,4,1,4260,4260,Supersix Evo Hi-Mod Ultegra,Road,Elite Road,Carbon,Oklahoma City Race Equipment,Oklahoma City,OK,Supersix Evo,0,1,0,0,1,0,0
+2011-01-25,15,6,2,4480,8960,Habit Carbon SE,Mountain,Trail,Carbon,Oklahoma City Race Equipment,Oklahoma City,OK,Habit,0,0,0,0,0,0,0
+2011-01-25,15,7,1,1350,1350,Trail 2,Mountain,Sport,Aluminum,Oklahoma City Race Equipment,Oklahoma City,OK,Trail,0,0,0,0,0,0,0
+2011-01-25,15,10,1,1950,1950,Habit 6,Mountain,Trail,Aluminum,Oklahoma City Race Equipment,Oklahoma City,OK,Habit,0,0,0,0,0,0,0
+2011-01-25,15,11,1,2450,2450,SuperX Ultegra,Road,Cyclocross,Carbon,Oklahoma City Race Equipment,Oklahoma City,OK,SuperX,0,0,0,0,1,0,0
+2011-01-25,16,1,4,1840,7360,F-Si 3,Mountain,Cross Country Race,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,F-Si,0,0,0,0,0,0,0
+2011-01-25,16,2,1,1080,1080,Trail 3,Mountain,Sport,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,Trail,0,0,0,0,0,0,0
+2011-01-25,16,3,1,585,585,Catalyst 2,Mountain,Sport,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,Catalyst,0,0,0,0,0,0,0
+2011-01-25,16,4,1,705,705,Catalyst 1,Mountain,Sport,Aluminum,Minneapolis Bike Shop,Minneapolis,MN,Catalyst,0,0,0,0,0,0,0
+2011-01-26,17,1,1,7000,7000,Slice Hi-Mod Black Inc.,Road,Triathalon,Carbon,Cincinnati Speed,Cincinnati,OH,Slice,1,1,0,0,0,0,0
+2011-01-28,18,1,1,815,815,CAAD8 Claris,Road,Elite Road,Aluminum,Denver Bike Shop,Denver,CO,CAAD8,0,0,0,0,0,0,0
+2011-01-28,18,2,1,4260,4260,Scalpel 29 Carbon 3,Mountain,Cross Country Race,Carbon,Denver Bike Shop,Denver,CO,Scalpel 29,0,0,0,0,0,0,0
+2011-01-28,20,1,1,2240,2240,Supersix Evo 105,Road,Elite Road,Carbon,Kansas City 29ers,Kansas City,KS,Supersix Evo,0,0,0,0,0,0,0
+2011-01-28,20,2,1,2660,2660,CAAD12 Disc Ultegra,Road,Elite Road,Aluminum,Kansas City 29ers,Kansas City,KS,CAAD,0,0,0,0,1,0,1
+2011-01-28,20,4,1,3730,3730,Habit Carbon 3,Mountain,Trail,Carbon,Kansas City 29ers,Kansas City,KS,Habit,0,0,0,0,0,0,0
+2011-01-28,20,7,1,3200,3200,Bad Habit 1,Mountain,Trail,Aluminum,Kansas City 29ers,Kansas City,KS,Bad Habit,0,0,0,0,0,0,0
+2011-01-28,20,8,1,1620,1620,Beast of the East 3,Mountain,Trail,Aluminum,Kansas City 29ers,Kansas City,KS,Beast of the East,0,0,0,0,0,0,0
+2011-01-28,20,9,1,2130,2130,Beast of the East 2,Mountain,Trail,Aluminum,Kansas City 29ers,Kansas City,KS,Beast of the East,0,0,0,0,0,0,0
+2011-02-01,21,1,1,8200,8200,Trigger Carbon 1,Mountain,Over Mountain,Carbon,Las Vegas Cycles,Las Vegas,NV,Trigger,0,0,0,0,0,0,0
+2011-02-01,22,1,2,2130,4260,Synapse Disc Adventure,Road,Endurance Road,Aluminum,Seattle Race Equipment,Seattle,WA,Synapse,0,0,0,0,0,0,1
+2011-02-01,22,3,1,3730,3730,Fat CAAD1,Mountain,Fat Bike,Aluminum,Seattle Race Equipment,Seattle,WA,Fat CAAD1,0,0,0,0,0,0,0
+2011-02-01,22,6,1,5860,5860,Synapse Hi-Mod Dura Ace,Road,Endurance Road,Carbon,Seattle Race Equipment,Seattle,WA,Synapse,0,1,0,0,0,1,0
+2011-02-04,23,2,1,2340,2340,F-Si 1,Mountain,Cross Country Race,Aluminum,Denver Bike Shop,Denver,CO,F-Si,0,0,0,0,0,0,0
+2011-02-04,23,3,1,980,980,Trail 4,Mountain,Sport,Aluminum,Denver Bike Shop,Denver,CO,Trail,0,0,0,0,0,0,0
+2011-02-04,23,4,1,2660,2660,Synapse Carbon Disc 105,Road,Endurance Road,Carbon,Denver Bike Shop,Denver,CO,Synapse,0,0,0,0,0,0,1
+2011-02-07,24,5,1,3940,3940,Supersix Evo Red,Road,Elite Road,Carbon,Ann Arbor Speed,Ann Arbor,MI,Supersix Evo,0,0,0,1,0,0,0
+2011-02-07,24,8,1,415,415,Catalyst 4,Mountain,Sport,Aluminum,Ann Arbor Speed,Ann Arbor,MI,Catalyst,0,0,0,0,0,0,0
+2011-02-07,24,11,1,4260,4260,CAAD12 Disc Dura Ace,Road,Elite Road,Aluminum,Ann Arbor Speed,Ann Arbor,MI,CAAD12,0,0,0,0,0,1,1
+2011-02-10,27,3,1,1030,1030,CAAD8 Sora,Road,Elite Road,Aluminum,Kansas City 29ers,Kansas City,KS,CAAD8,0,0,0,0,0,0,0
+2011-02-10,27,6,1,2880,2880,F-Si Carbon 4,Mountain,Cross Country Race,Carbon,Kansas City 29ers,Kansas City,KS,F-Si,0,0,0,0,0,0,0
+2011-02-10,27,8,1,1520,1520,Trail 1,Mountain,Sport,Aluminum,Kansas City 29ers,Kansas City,KS,Trail,0,0,0,0,0,0,0
+2011-02-10,27,9,1,2660,2660,Bad Habit 2,Mountain,Trail,Aluminum,Kansas City 29ers,Kansas City,KS,Bad Habit,0,0,0,0,0,0,0
+2011-02-10,28,1,1,7990,7990,Jekyll Carbon 1,Mountain,Over Mountain,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Jekyll,0,0,0,0,0,0,0
+2011-02-10,28,7,1,6390,6390,Scalpel-Si Carbon 2,Mountain,Cross Country Race,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Scalpel-Si,0,0,0,0,0,0,0
+2011-02-10,28,12,1,5330,5330,Synapse Hi-Mod Disc Ultegra,Road,Endurance Road,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Synapse,0,1,0,0,1,0,1
+2011-02-10,28,13,1,2130,2130,Fat CAAD2,Mountain,Fat Bike,Aluminum,Ithaca Mountain Climbers,Ithaca,NY,Fat CAAD2,0,0,0,0,0,0,0
+2011-02-10,28,15,1,6390,6390,Scalpel 29 Carbon Race,Mountain,Cross Country Race,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Scalpel 29,0,0,0,0,0,0,0
+2011-02-10,28,16,1,4260,4260,Scalpel-Si Carbon 4,Mountain,Cross Country Race,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Scalpel-Si,0,0,0,0,0,0,0
+2011-02-11,29,4,1,3200,3200,Trigger Carbon 4,Mountain,Over Mountain,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Trigger,0,0,0,0,0,0,0
+2011-02-15,31,3,1,7460,7460,Habit Carbon 1,Mountain,Trail,Carbon,Ithaca Mountain Climbers,Ithaca,NY,Habit,0,0,0,0,0,0,0
+2011-02-15,32,3,1,3730,3730,Trigger Carbon 3,Mountain,Over Mountain,Carbon,Phoenix Bi-peds,Phoenix,AZ,Trigger,0,0,0,0,0,0,0
+2011-02-15,32,19,1,1750,1750,SuperX Rival CX1,Road,Cyclocross,Carbon,Phoenix Bi-peds,Phoenix,AZ,SuperX,0,0,0,0,0,0,0
+2011-02-16,34,6,1,2700,2700,Slice Ultegra,Road,Triathalon,Carbon,Kansas City 29ers,Kansas City,KS,Slice,0,0,0,0,1,0,0
+2011-02-16,34,19,1,5330,5330,Habit Carbon 2,Mountain,Trail,Carbon,Kansas City 29ers,Kansas City,KS,Habit,0,0,0,0,0,0,0
+2011-02-17,35,3,1,2880,2880,Habit 4,Mountain,Trail,Aluminum,Portland Bi-peds,Portland,OR,Habit,0,0,0,0,0,0,0
+2011-02-18,36,8,1,12250,12250,Habit Hi-Mod Black Inc.,Mountain,Trail,Carbon,Tampa 29ers,Tampa,FL,Habit,1,1,0,0,0,0,0
+2011-02-18,36,13,1,6390,6390,F-Si Hi-Mod 1,Mountain,Cross Country Race,Carbon,Tampa 29ers,Tampa,FL,F-Si,0,1,0,0,0,0,0
+2011-02-22,42,11,2,1680,3360,CAAD12 105,Road,Elite Road,Aluminum,Oklahoma City Race Equipment,Oklahoma City,OK,CAAD12,0,0,0,0,0,0,0
+2011-03-03,48,6,1,5330,5330,Scalpel-Si Carbon 3,Mountain,Cross Country Race,Carbon,Tampa 29ers,Tampa,FL,Scalpel-Si,0,0,0,0,0,0,0
